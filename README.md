@@ -3,7 +3,7 @@
 
 ## Título: Proposta de aplicativo de oferecimento de serviços
 
-##INTRODUÇÃO
+## INTRODUÇÃO
 A recolocação no mercado é uma atividade recorrente entre jovens e adultos para suprimir a necessidades diárias e o trabalho informal tem sido uma alternativa de sobrevivência. A pandemia causada pelo novo coronavírus potencializou o índice de trabalhadores informais – os mais vulneráveis à crise. Segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE), 68% dos trabalhadores que ficaram sem trabalho no segundo trimestre de 2020 (quase nove milhões) foram de postos informais. Até o fim de 2019, essa categoria representava 38 milhões de pessoas. O índice de desemprego chegou a 14,4%, contra 11,6% no mesmo período do ano passado.
 Sob o signo da Covid-19, a busca por alternativas no mercado informal se acentuou na esfera econômica, pois muitos brasileiros foram impactados, apresentando dificuldades. Assim, a criatividade e renovação foram necessários para adaptação nesse período de pandemia.
 O trabalho informal se tornou uma alternativa, que pode até agradar ao trabalhador por algumas vantagens, como fazer seu próprio horário de trabalho, não estar sob a pressão de um patrão e a possibilidade de se conseguir uma remuneração maior do que com um trabalho formal onde também teria que seguir as regras do empregador e um horário determinado.
